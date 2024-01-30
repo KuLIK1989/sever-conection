@@ -1,0 +1,11 @@
+.cover__img {
+  width: 1035px;
+  height: 412px;
+  background: linear-gradient(
+      90deg,
+      #f8f8f8 0%,
+      rgba(248, 248, 248, 0.85) 16.71%,
+      rgba(248, 248, 248, 0) 40.11%
+    ),
+    url("../../../images/change-size.png"), lightgray 20% / cover no-repeat;
+}

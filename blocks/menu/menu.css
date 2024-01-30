@@ -1,5 +1,8 @@
 .menu {
   margin: 0;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 36px;
 }
 .menu > li {
   float: left;

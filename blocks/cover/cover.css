@@ -1,0 +1,6 @@
+.cover {
+  max-width: 1920px;
+  max-height: 413px;
+  background: #f8f8f8;
+  display: flex;
+}
