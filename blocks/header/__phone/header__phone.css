@@ -1,0 +1,9 @@
+.header__phone {
+  color: var(--red, #ee2523);
+  text-align: right;
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%; /* 24px */
+}

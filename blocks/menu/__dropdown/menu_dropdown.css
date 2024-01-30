@@ -1,0 +1,7 @@
+.menu__dropdown:hover .menu__dropdown-list {
+  left: 0px;
+}
+
+.menu__dropdown:hover .menu__dropdown-list ul {
+  opacity: 1;
+}

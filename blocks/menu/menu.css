@@ -1,0 +1,23 @@
+.menu {
+  margin: 0;
+}
+.menu > li {
+  float: left;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.menu li a {
+  display: block;
+  margin: 0;
+  text-decoration: none;
+  color: var(--text-icon-90, #1f1f1f);
+
+  /* Typography/Body/B3 */
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 24px */
+}

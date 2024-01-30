@@ -1,0 +1,8 @@
+.header__nav {
+  max-width: 903px;
+  max-height: 160px;
+}
+.header__nav ul {
+  text-decoration: none;
+  list-style: none;
+}
