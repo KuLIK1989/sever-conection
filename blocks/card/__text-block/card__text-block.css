@@ -1,0 +1,9 @@
+.card__text-block {
+  max-width: 380px;
+  max-height: 105px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 12px;
+  align-self: stretch;
+}

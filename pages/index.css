@@ -18,3 +18,24 @@
 @import url(../blocks/cover/__img/cover__img.css);
 @import url(../blocks/cover/__left-wraper/cover__left-wraper.css);
 @import url(../blocks/cover/__title/cover__title.css);
+
+@import url(../blocks/services/services.css);
+@import url(../blocks/services/__btn/services__btn.css);
+@import url(../blocks/services/__title/services__title.css);
+@import url(../blocks/services/__wraper/services__wraper.css);
+
+@import url(../blocks/cards/cards.css);
+
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__btn/card__btn.css);
+@import url(../blocks/card/__card-price/card__card-price.css);
+@import url(../blocks/card/__description/card__description.css);
+@import url(../blocks/card/__image/card__image.css);
+@import url(../blocks/card/__price/card__price.css);
+@import url(../blocks/card/__subtitle/card__subtitle.css);
+@import url(../blocks/card/__sum-subtitle/card__sum-subtitle.css);
+@import url(../blocks/card/__sum/card__sum.css);
+@import url(../blocks/card/__text-block/card__text-block.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__sum/__sum-from/card__sum-from.css);
+@import url(../blocks/card/__price/__price-box/card__price-box.css);

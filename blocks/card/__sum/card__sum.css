@@ -1,0 +1,9 @@
+.card__sum {
+  color: #000;
+  font-family: "Inter";
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 50% */
+  letter-spacing: 0.5px;
+}

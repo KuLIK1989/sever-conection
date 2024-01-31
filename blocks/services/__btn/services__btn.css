@@ -1,0 +1,20 @@
+.services__btn {
+  display: flex;
+  width: 226px;
+  height: 86px;
+  padding: 0px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  border-radius: 8px 0px 0px 8px;
+  border: 1px solid var(---Primary-100, #ee2523);
+  background: var(---Primary-100, #ee2523);
+  color: var(--text-icon-100, #fff);
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%; /* 22.4px */
+  position: fixed;
+  left: 1695px;
+}

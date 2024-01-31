@@ -1,0 +1,6 @@
+.card__card-price {
+  display: flex;
+  width: 380px;
+  justify-content: space-between;
+  align-items: center;
+}
