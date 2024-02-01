@@ -7,3 +7,10 @@
   line-height: 24px; /* 50% */
   letter-spacing: 0.5px;
 }
+
+@media (max-width: 768px) {
+  .card__sum {
+    font-size: 40px;
+    font-weight: 400;
+  }
+}

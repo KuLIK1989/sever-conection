@@ -5,3 +5,10 @@
   justify-content: space-around;
   align-items: center;
 }
+@media (max-width: 768px) {
+  .header {
+    max-width: 688px;
+    justify-content: space-between;
+    margin: auto;
+  }
+}

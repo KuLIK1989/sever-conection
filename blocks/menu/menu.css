@@ -24,3 +24,8 @@
   font-weight: 400;
   line-height: 150%; /* 24px */
 }
+@media (max-width: 768px) {
+  .menu {
+    display: none;
+  }
+}

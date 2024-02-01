@@ -18,3 +18,12 @@
   position: fixed;
   left: 1695px;
 }
+
+@media (max-width: 768px) {
+  .services__btn {
+    width: 216px;
+    left: 552px;
+    top: 471px;
+    padding: 16px;
+  }
+}

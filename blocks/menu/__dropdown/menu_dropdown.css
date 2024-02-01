@@ -5,3 +5,8 @@
 .menu__dropdown:hover .menu__dropdown-list ul {
   opacity: 1;
 }
+@media (max-width: 768px) {
+  .menu__dropdown {
+    display: none;
+  }
+}

@@ -1,0 +1,9 @@
+.header__right-nav {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .header__right-nav {
+    display: block;
+  }
+}

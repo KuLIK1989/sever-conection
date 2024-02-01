@@ -3,3 +3,9 @@
   height: 250px;
   border-radius: 10px;
 }
+@media (max-width: 768px) {
+  .card__image {
+    width: 274px;
+    height: 184px;
+  }
+}

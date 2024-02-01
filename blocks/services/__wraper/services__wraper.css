@@ -2,3 +2,8 @@
   max-width: 1441px;
   margin: auto;
 }
+@media (max-width: 768px) {
+  .services__wraper {
+    max-width: calc(668px + 20px);
+  }
+}

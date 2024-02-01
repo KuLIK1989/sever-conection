@@ -19,3 +19,20 @@
   margin-top: 40px;
   cursor: pointer;
 }
+@media (max-width: 768px) {
+  .cover__btn {
+    width: 260px;
+    padding: 14px 50px;
+    gap: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 130%;
+    margin-top: 0;
+    margin-left: 0;
+    z-index: 1;
+    position: absolute;
+    top: 268px;
+    left: 39px;
+  }
+}

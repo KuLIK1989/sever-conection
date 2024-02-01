@@ -1,0 +1,9 @@
+.header__user {
+  display: none;
+}
+@media (max-width: 768px) {
+  .header__user {
+    display: block;
+    margin-right: 168px;
+  }
+}

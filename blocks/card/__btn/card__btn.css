@@ -16,3 +16,10 @@
   font-weight: 400;
   line-height: 140%; /* 22.4px */
 }
+@media (max-width: 768px) {
+  .card__btn {
+    max-width: 193px;
+    font-size: 18px;
+    font-weight: 700;
+  }
+}

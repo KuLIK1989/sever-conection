@@ -2,3 +2,8 @@
   background: #fff;
   max-width: 1920px;
 }
+@media screen and (max-width: 768px) {
+  .root {
+    max-width: 768px;
+  }
+}
