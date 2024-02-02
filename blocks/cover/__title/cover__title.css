@@ -22,3 +22,13 @@
     z-index: 1;
   }
 }
+
+@media (max-width: 390px) {
+  .cover__title {
+    width: 392px;
+    font-size: 38px;
+    line-height: 125%;
+    margin-left: 45px;
+    margin-top: 60px;
+  }
+}

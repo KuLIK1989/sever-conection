@@ -3,6 +3,7 @@
   display: inline-flex;
   align-items: flex-start;
   gap: 36px;
+  padding: 0;
 }
 .menu > li {
   float: left;

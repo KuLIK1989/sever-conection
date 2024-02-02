@@ -6,3 +6,8 @@
     width: 605px;
   }
 }
+@media (max-width: 390px) {
+  .cover__left-wraper{
+    width: 392px; ;
+  }
+}

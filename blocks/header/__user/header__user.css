@@ -7,3 +7,8 @@
     margin-right: 168px;
   }
 }
+@media (max-width: 390px) {
+  .header__user {
+    margin-right: 71px;
+  }
+}

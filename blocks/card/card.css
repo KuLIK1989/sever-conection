@@ -16,3 +16,10 @@
     padding: 33px 29px;
   }
 }
+@media (max-width: 390px) {
+  .card {
+    max-width: 390px;
+    margin-left: 44px;
+    max-height: 527px;
+  }
+}

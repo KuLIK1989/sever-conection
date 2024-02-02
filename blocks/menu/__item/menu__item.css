@@ -9,6 +9,7 @@
   display: inline-flex;
   align-items: flex-start;
   gap: 36px;
+  cursor: pointer;
 }
 @media (max-width: 768px) {
   .menu__item {

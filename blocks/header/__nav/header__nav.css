@@ -12,3 +12,8 @@
     display: flex;
   }
 }
+@media (max-width: 390px) {
+  .header__nav {
+    margin-left: 73px;
+  }
+}

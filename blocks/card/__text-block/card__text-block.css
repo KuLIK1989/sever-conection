@@ -1,6 +1,6 @@
 .card__text-block {
   max-width: 380px;
-  /* max-height: 105px; */
+  min-height: 134px;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
@@ -12,5 +12,16 @@
     max-width: 274px;
     /* max-height: 84px; */
     margin-bottom: 14px;
+    min-height: 124px;
+  }
+}
+@media (max-width: 390px) {
+  .card__text-block {
+    gap: 17px;
+    min-width: 330px;
+    margin-bottom: 15px;
+  }
+  .card__text-block:first-of-type {
+    margin-bottom: 10px;
   }
 }

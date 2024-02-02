@@ -4,12 +4,17 @@
   background-color: #f8f8f8;
   display: flex;
   position: relative;
-  z-index: 1;
+  /* z-index: ; */
   /* border: 1px solid black; */
 }
 @media (max-width: 768px) {
   .cover {
     max-width: 768px;
     height: 397px;
+  }
+}
+@media (max-width: 390px) {
+  .cover {
+    width: 480px;
   }
 }

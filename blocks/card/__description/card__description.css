@@ -11,3 +11,9 @@
     max-width: 274px;
   }
 }
+@media (max-width: 390px) {
+  .card__decription {
+    max-width: 330px;
+    align-items: normal;
+  }
+}

@@ -1,6 +1,8 @@
 .cover__img {
   width: 1035px;
   height: 412px;
+  top: -62px;
+  right: -231px;
   position: absolute;
   background: linear-gradient(
       90deg,
@@ -23,5 +25,13 @@
         rgba(248, 248, 248, 0) 55.505%
       ),
       url("../../../images/change-size.png");
+  }
+}
+@media (max-width: 390px) {
+  .cover__img {
+    width: 662px;
+    height: 469px;
+    top: -56px;
+    left: -50px;
   }
 }

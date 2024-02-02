@@ -36,3 +36,10 @@
     left: 39px;
   }
 }
+
+@media (max-width: 390px) {
+  .cover__btn {
+    top: 292px;
+    left: 45px;
+  }
+}

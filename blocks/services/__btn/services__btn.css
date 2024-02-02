@@ -1,6 +1,6 @@
 .services__btn {
   display: flex;
-  width: 226px;
+  width: 228px;
   height: 86px;
   padding: 0px 24px;
   justify-content: center;
@@ -16,7 +16,10 @@
   font-weight: 600;
   line-height: 140%; /* 22.4px */
   position: fixed;
-  left: 1695px;
+  left: 1705px;
+}
+.services__btn span {
+  display: none;
 }
 
 @media (max-width: 768px) {
@@ -25,5 +28,21 @@
     left: 552px;
     top: 471px;
     padding: 16px;
+  }
+}
+
+@media (max-width: 390px) {
+  .services__btn {
+    left: 337px;
+    top: 474px;
+    width: 153px;
+    height: 54px;
+    gap: 10px;
+  }
+  .services__btn span {
+    display: block;
+  }
+  .services__btn p {
+    display: none;
   }
 }

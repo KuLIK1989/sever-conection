@@ -14,3 +14,11 @@
     width: 280px;
   }
 }
+
+@media (max-width: 390px) {
+  .card__title {
+    font-size: 28px;
+    height: 42px;
+    width: 330px;
+  }
+}

@@ -1,9 +1,16 @@
 .header__img {
-  max-width: 199px;
+  min-width: 199px;
   height: 64px;
+  margin-left: 240px;
 }
 @media (max-width: 768px) {
   .header__img {
     height: 43px;
+    margin-left: 0;
   }
 }
+/* @media (max-width: 768px) {
+  .header__img {
+    margin-right: 73px;
+  }
+} */
