@@ -1,5 +1,5 @@
 .services {
-  max-width: 1921px;
+  width: 1921px;
   position: relative;
 }
 @media (max-width: 1600px) {
