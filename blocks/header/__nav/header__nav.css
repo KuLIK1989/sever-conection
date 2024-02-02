@@ -1,5 +1,5 @@
 .header__nav {
-  max-width: 903px;
+  width: 903px;
   max-height: 160px;
 }
 .header__nav ul {
@@ -8,7 +8,7 @@
 }
 @media (max-width: 768px) {
   .header__nav {
-    max-width: 215px;
+    width: 215px;
     display: flex;
   }
 }
