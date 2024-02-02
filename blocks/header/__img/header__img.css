@@ -11,7 +11,7 @@
 @media (max-width: 768px) {
   .header__img {
     height: 43px;
-    /* margin-left: 0; */
+    margin-left: 0;
   }
 }
 @media (max-width: 390px) {
