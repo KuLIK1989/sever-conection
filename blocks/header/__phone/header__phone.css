@@ -8,6 +8,11 @@
   line-height: 150%; /* 24px */
   margin-right: 240px;
 }
+@media (max-width: 1900px) {
+  .header__phone {
+    margin-right: 5px;
+  }
+}
 @media (max-width: 1600px) {
   .header__phone {
     margin-right: 5px;

@@ -12,6 +12,11 @@
     width: 1600px;
   }
 }
+@media (max-width: 1400px) {
+  .cover {
+    width: 1400px;
+  }
+}
 @media (max-width: 768px) {
   .cover {
     width: 768px;

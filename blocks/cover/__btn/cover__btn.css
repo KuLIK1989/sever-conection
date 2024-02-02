@@ -19,6 +19,11 @@
   margin-top: 40px;
   cursor: pointer;
 }
+@media (max-width: 1600px) {
+  .cover__btn {
+    margin-left: 116px;
+  }
+}
 @media (max-width: 768px) {
   .cover__btn {
     width: 260px;

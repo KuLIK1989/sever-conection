@@ -5,7 +5,7 @@
 }
 @media (max-width: 1600px) {
   .header__img {
-    margin-left: 0;
+    margin-left: 121px;
   }
 }
 @media (max-width: 768px) {
@@ -14,8 +14,8 @@
     /* margin-left: 0; */
   }
 }
-/* @media (max-width: 768px) {
+@media (max-width: 390px) {
   .header__img {
-    margin-right: 73px;
+    margin-left: 0;
   }
-} */
+}

@@ -2,6 +2,11 @@
   max-width: 1921px;
   position: relative;
 }
+@media (max-width: 1600px) {
+  .services {
+    width: 1600px;
+  }
+}
 @media (max-width: 768px) {
   .services {
     max-width: 768px;

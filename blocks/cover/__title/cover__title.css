@@ -10,6 +10,11 @@
   margin-top: 64px;
   margin-left: 238px;
 }
+@media (max-width: 1600px) {
+  .cover__title {
+    margin-left: 116px;
+  }
+}
 @media (max-width: 768px) {
   .cover__title {
     width: 605px;

@@ -21,6 +21,11 @@
 .services__btn span {
   display: none;
 }
+@media (max-width: 1600px) {
+  .services__btn {
+    left: 1370px;
+  }
+}
 
 @media (max-width: 768px) {
   .services__btn {
