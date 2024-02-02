@@ -7,6 +7,11 @@
   /* z-index: ; */
   /* border: 1px solid black; */
 }
+@media (max-width: 1600px) {
+  .cover {
+    width: 1600px;
+  }
+}
 @media (max-width: 768px) {
   .cover {
     width: 768px;

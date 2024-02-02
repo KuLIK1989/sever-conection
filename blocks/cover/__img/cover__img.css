@@ -10,7 +10,19 @@
       rgba(248, 248, 248, 0.85) 16.71%,
       rgba(248, 248, 248, 0) 40.11%
     ),
-    url("../../../images/change-size.png"), lightgray 90% / cover no-repeat;
+    url("../../../images/change-size.png"), lightgray 50% / cover no-repeat;
+}
+@media (max-width: 1600px) {
+  .cover__img {
+    right: -266px;
+    background: linear-gradient(
+        90deg,
+        #f8f8f8 9%,
+        rgba(248, 248, 248, 0.85) 16.71%,
+        rgba(248, 248, 248, 0) 40.11%
+      ),
+      url("../../../images/change-size.png"), lightgray 50% / cover no-repeat;
+  }
 }
 @media (max-width: 768px) {
   .cover__img {
