@@ -1,5 +1,5 @@
 .cover {
-  max-width: 1920px;
+  width: 1920px;
   height: 413px;
   background-color: #f8f8f8;
   display: flex;
@@ -9,7 +9,7 @@
 }
 @media (max-width: 768px) {
   .cover {
-    max-width: 768px;
+    width: 768px;
     height: 397px;
   }
 }
